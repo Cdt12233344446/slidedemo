@@ -32,11 +32,13 @@ class: center, middle
 ## 学习编程
 
 ```c
+    
     squares=[]
     for value in range(1,11):
         squares.append(value**2)
     
     print(squares)
+    
 ```
 
 ---
@@ -45,7 +47,7 @@ class: center, middle
 
 ** Benzene Molecular Orbitals **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Benzene_Orbitals.svg/500px-Benzene_Orbitals.svg.png" style="margin: 0px 80px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Benzene_Orbitals.svg/500px-Benzene_Orbitals.svg.png" width="500px" style="margin: 0px 50px">
 
 ---
 

@@ -31,9 +31,12 @@ class: center, middle
 
 ## 学习编程
 
-```c
-  print("Hello Python world!")
-  
+```
+squares=[]
+for value in range(1,11):
+    squares.append(value**2)
+    
+print(squares)
 ```
 
 ---
@@ -42,17 +45,18 @@ class: center, middle
 
 ** Benzene Molecular Orbitals **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Benzene_Orbitals.svg" width=500 style="margin: 0px 80px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Benzene_Orbitals.svg/1000px-Benzene_Orbitals.svg.png" style="margin: 0px 80px">
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 用remark插入`\(\LaTeX{}\)`公式
 
+单行公式列表：
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
+1. `\(\int_a^bf(x)dx\)`
+2. `\(x={a \over b}\)`
 
-Display formula:
+公式显示：
 
 $$e^{i\pi} + 1 = 0$$
 

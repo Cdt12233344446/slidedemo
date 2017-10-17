@@ -15,8 +15,9 @@ class: center, middle
 
 ### 1. 学历
 
-#### &nbsp; &nbsp; 曾就读于：江西省景德镇一中
-#### &nbsp; &nbsp; 现就读于：北京大学化学与分子工程学院
+曾就读于：江西省景德镇一中
+
+现就读于：北京大学化学与分子工程学院
 
 ### <font color="orangered">2. 优点</font>
 
@@ -32,15 +33,16 @@ class: center, middle
 
 ```c
   print("Hello Python world!")
+  
 ```
 
 ---
 
 ## 化学
 
-** Benzene **
+** Benzene Molecular Orbitals **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Benzene_Orbitals.svg" width=300 style="margin: 0px 80px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Benzene_Orbitals.svg" width=500 style="margin: 0px 80px">
 
 ---
 

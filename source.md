@@ -32,11 +32,11 @@ class: center, middle
 ## 学习编程
 
 ```c
-squares=[]
-for value in range(1,11):
-    squares.append(value**2)
-    
-print(squares)    
+int main()
+{
+  printf("Hello world\n");
+  return 0 ;
+}
 ```
 
 ---
@@ -45,7 +45,7 @@ print(squares)
 
 ** Benzene Molecular Orbitals **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Benzene_Orbitals.svg/500px-Benzene_Orbitals.svg.png" width=500  style="margin: 0px 50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Benzene_Orbitals.svg" width=500  style="margin: 0px 50px">
 
 ---
 

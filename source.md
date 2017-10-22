@@ -64,3 +64,7 @@ print(squares)
 class: center, middle
 
 # 谢谢观看
+
+### 详情可见：  
+
+http://mp.weixin.qq.com/s?__biz=MzI1NTI5Nzc3NQ==&mid=2247484373&idx=1&sn=246bbffa0d15c7a94b47d7b799a7dca8&chksm=ea395255dd4edb43900c172123ba304d8a5eb6aa616de9bb83c4bfe04318603337dc648f2f8b&scene=0#rd

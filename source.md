@@ -58,11 +58,12 @@ I'm a comment.
 background-image: url(https://imgsa.baidu.com/forum/pic/item/1446c56034a85edf03440f7f42540923dc54751e.jpg)
 background-size: 100% 100%
 
-## <font color="lavender">个人兴趣</font>
+## <font color="magenta">个人兴趣</font>
 
-<font color="lavender">读科普书籍、看小说、收集小物件、发现新鲜事物</font>
+<font color="magenta">读科普书籍、看小说、收集小物件、发现新鲜事物</font>
 
-<font color="lavender">你看这背景图就知道了……</font>
+
+<font color="magenta">不信你看这背景图就知道了……</font>
 
 ---
 

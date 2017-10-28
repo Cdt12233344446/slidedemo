@@ -1,3 +1,5 @@
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Periodic_table_large.png)
+
 class: center, middle
 
 # 自我介绍

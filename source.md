@@ -11,6 +11,10 @@ class: center, middle
 
 主页: https://github.com/Cdt12233344446
 
+<!---
+I'm a comment.
+--->
+
 ---
 
 ## 基本信息
@@ -20,6 +24,7 @@ class: center, middle
 曾就读于：江西省乐平市第一小学、江西省景德镇一中
 
 现就读于：北京大学化学与分子工程学院
+
 --
 
 ### <font color="orangered">2. 优点</font>
@@ -44,7 +49,7 @@ class: center, middle
 
 + 视力：左眼725度，右眼625度（毕竟小学二年级开始戴眼镜）
 
-+ 婚否：单身:dog:一只，目前不指望脱单
++ 婚否：单身狗一只，目前不指望脱单
 
 + 政治面貌：群众（向各位低头）
 
@@ -52,11 +57,11 @@ class: center, middle
 
 background-image: url(https://imgsa.baidu.com/forum/pic/item/1446c56034a85edf03440f7f42540923dc54751e.jpg)
 
-## 个人兴趣
+## <font color="lavender">个人兴趣</font>
 
-读科普书籍、看小说、收集小物件、发现新鲜事物
+<font color="lavender">读科普书籍、看小说、收集小物件、发现新鲜事物</font>
 
-你看看背景图就知道了……
+<font color="lavender">你看这背景图就知道了……</font>
 
 ---
 
@@ -67,6 +72,9 @@ background-image: url(https://imgsa.baidu.com/forum/pic/item/1446c56034a85edf034
 但是因为喜欢装逼，给人留下的印象是记忆力好、考试不复习、会唱歌
 
 具体还是可以看结尾的微信链接，嗯
+
+???
+这是一段备注。要想查看备注，请在这一页按下P键。
 
 ---
 

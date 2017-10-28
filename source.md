@@ -1,4 +1,4 @@
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Periodic_table_large.png)
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Periodic_table_large.png/1280px-Periodic_table_large.png)
 
 class: center, middle
 
@@ -20,6 +20,7 @@ class: center, middle
 曾就读于：江西省景德镇一中
 
 现就读于：北京大学化学与分子工程学院
+--
 
 ### <font color="orangered">2. 优点</font>
 
@@ -45,7 +46,7 @@ class: center, middle
 
 ## 学习编程
 
-```c
+```python
 squares=[]
 for value in range(1,11)
     squares.append(value**2)
@@ -61,6 +62,8 @@ print(squares)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Benzene_Orbitals.svg" width=500 style="margin: 0px 50px">
 
+被普化虐中……
+
 ---
 
 class: center, middle
@@ -69,4 +72,4 @@ class: center, middle
 
 ### 详情可见：  
 
-http://mp.weixin.qq.com/s?__biz=MzI1NTI5Nzc3NQ==&mid=2247484373&idx=1&sn=246bbffa0d15c7a94b47d7b799a7dca8&chksm=ea395255dd4edb43900c172123ba304d8a5eb6aa616de9bb83c4bfe04318603337dc648f2f8b&scene=0#rd
+http://mp.weixin.qq.com/s?__biz=MzI1NTI5Nzc3NQ==&mid=2247484373&idx=1&sn=246bbffa0d15c7a94b47d7b799a7dca8

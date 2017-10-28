@@ -56,6 +56,7 @@ I'm a comment.
 ---
 
 background-image: url(https://imgsa.baidu.com/forum/pic/item/1446c56034a85edf03440f7f42540923dc54751e.jpg)
+background-size: 100% 100%
 
 ## <font color="lavender">个人兴趣</font>
 

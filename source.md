@@ -58,12 +58,13 @@ I'm a comment.
 background-image: url(https://imgsa.baidu.com/forum/pic/item/1446c56034a85edf03440f7f42540923dc54751e.jpg)
 background-size: 100% 100%
 
-## <font color="magenta">个人兴趣</font>
+## <font color="dimgray">个人兴趣</font>
 
-<font color="magenta">读科普书籍、看小说、收集小物件、发现新鲜事物</font>
+<font color="dimgray">读科普书籍、看小说、收集小物件、发现新鲜事物</font>
 
+<p>&nbsp</p>
 
-<font color="magenta">不信你看这背景图就知道了……</font>
+<font color="dimgray">不信你看这背景图就知道了……</font>
 
 ---
 
@@ -74,6 +75,8 @@ background-size: 100% 100%
 但是因为喜欢装逼，给人留下的印象是记忆力好、考试不复习、会唱歌
 
 具体还是可以看结尾的微信链接，嗯
+
+（按下P，有惊喜）
 
 ???
 这是一段备注。要想查看备注，请在这一页按下P键。

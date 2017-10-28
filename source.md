@@ -43,9 +43,13 @@ I'm a comment.
 
 + 性别：男（取向直男，谢谢）
 
++ 生日：00-05-31（话说我理论上是00后欸）
+
 + 身高：大概174㎝
 
 + 体重：从入学的85kg直接降到75kg……不懂为什么
+
++ 喜欢的颜色：曾经是蓝色，现在似乎没有偏好
 
 + 视力：左眼725度，右眼625度（毕竟小学二年级开始戴眼镜）
 
@@ -58,13 +62,11 @@ I'm a comment.
 background-image: url(https://imgsa.baidu.com/forum/pic/item/1446c56034a85edf03440f7f42540923dc54751e.jpg)
 background-size: 100% 100%
 
-## <font color="dimgray">个人兴趣</font>
+## <font color="aquamarine">个人兴趣</font>
 
-<font color="dimgray">读科普书籍、看小说、收集小物件、发现新鲜事物</font>
-
+<font color="aquamarine">读科普书籍、看小说、收集小物件、发现新鲜事物</font>
 <p>&nbsp</p>
-
-<font color="dimgray">不信你看这背景图就知道了……</font>
+<font color="aquamarine">不信你看这背景图就知道了……</font>
 
 ---
 

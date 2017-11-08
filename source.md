@@ -1,4 +1,4 @@
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Periodic_table_large.png)
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Periodic_table_large.png/1280px-Periodic_table_large.png)
 background-size: 100% 100%
 
 class: center, middle

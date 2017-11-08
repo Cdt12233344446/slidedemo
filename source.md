@@ -1,5 +1,5 @@
 background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Periodic_table_large.png/1280px-Periodic_table_large.png)
-background-size: 100% 100%
+background-size: 110% 110%
 
 class: center, middle
 
@@ -8,13 +8,9 @@ class: center, middle
 &nbsp;
 &nbsp;
 
-#### 蔡丹杨 (Cai_Danyang2017@pku.edu.cn)  
+#### <font color="chartreuse">蔡丹杨 (Cai_Danyang2017@pku.edu.cn) </font>
 
 主页: https://github.com/Cdt12233344446
-
-<!---
-I'm a comment.
---->
 
 ---
 
@@ -57,6 +53,10 @@ I'm a comment.
 + 婚否：单身狗一只，目前不指望脱单
 
 + 政治面貌：群众（向各位低头）
+
+<!---
+I'm a comment.
+--->
 
 ---
 

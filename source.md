@@ -65,7 +65,7 @@ background-size: 100% 100%
 ## <font color="aquamarine">个人兴趣</font>
 
 <font color="aquamarine">读科普书籍、看小说、收集小物件、发现新鲜事物</font>
-<p>&nbsp</p>
+
 <font color="aquamarine">不信你看这背景图就知道了……</font>
 
 ---
@@ -116,3 +116,5 @@ class: center, middle
 ### 详情可见：  
 
 http://mp.weixin.qq.com/s?__biz=MzI1NTI5Nzc3NQ==&mid=2247484373&idx=1&sn=246bbffa0d15c7a94b47d7b799a7dca8
+
+http://mp.weixin.qq.com/s?__biz=MzAwNDA1OTc1NA==&mid=2650005333&idx=1&sn=80faffe44ce915912a682d12c27c770f

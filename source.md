@@ -1,4 +1,5 @@
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Periodic_table_large.png/1280px-Periodic_table_large.png)
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/39/Periodic_table_large.png)
+background-size: 100% 100%
 
 class: center, middle
 
@@ -64,9 +65,9 @@ background-size: 100% 100%
 
 ## <font color="aquamarine">个人兴趣</font>
 
-<font color="aquamarine">读科普书籍、看小说、收集小物件、发现新鲜事物</font>
+读科普书籍、看小说、收集小物件、发现新鲜事物
 
-<font color="aquamarine">不信你看这背景图就知道了……</font>
+不信你看这背景图就知道了……
 
 ---
 
@@ -78,7 +79,7 @@ background-size: 100% 100%
 
 具体还是可以看结尾的微信链接，嗯
 
-（按下P，有惊喜）
+（按下键盘上的P键，有惊喜）
 
 ???
 这是一段备注。要想查看备注，请在这一页按下P键。
@@ -113,7 +114,7 @@ class: center, middle
 
 # 谢谢观看
 
-### 详情可见：  
+### 进一步了解请见：  
 
 http://mp.weixin.qq.com/s?__biz=MzI1NTI5Nzc3NQ==&mid=2247484373&idx=1&sn=246bbffa0d15c7a94b47d7b799a7dca8
 

@@ -1,5 +1,5 @@
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Periodic_table_large.png/1280px-Periodic_table_large.png)
-background-size: 110% 110%
+background-image: url(https://i.loli.net/2017/11/17/5a0e51dbf0639.jpg)
+background-size: 100% 100%
 
 class: center, middle
 
@@ -100,6 +100,9 @@ py大法好，退C保平安（笑）
 
 ---
 
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Periodic_table_large.png/1280px-Periodic_table_large.png)
+background-size: 110% 110%
+
 ## 化学
 
 ** Benzene Molecular Orbitals **
@@ -114,7 +117,7 @@ class: center, middle
 
 # 谢谢观看
 
-### 进一步了解请见：  
+### 进一步了解请戳：  
 
 http://mp.weixin.qq.com/s?__biz=MzI1NTI5Nzc3NQ==&mid=2247484373&idx=1&sn=246bbffa0d15c7a94b47d7b799a7dca8
 

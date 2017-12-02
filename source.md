@@ -33,7 +33,7 @@ class: center, middle
 ---
 
 background-image: url(https://i.loli.net/2017/11/26/5a1ad97fc7c68.jpg)
-background-size: 50% 50%
+background-size: 50% 100%
 background-position: 100% 50%
 
 ## 基本信息

@@ -22,8 +22,6 @@ class: center, middle
 
 现就读于：北京大学化学与分子工程学院
 
---
-
 ### <font color="orangered">2. 优点</font>
 
 幽默、乐于助人、对生活有好奇心
@@ -38,21 +36,21 @@ class: center, middle
 
 ### 4. 真·个人信息
 
-+ 性别：男（取向直男，谢谢）
++ 性别：男（直男，谢谢）
 
 + 生日：00-05-31（话说我理论上是00后欸）
 
 + 身高：大概174㎝
 
-+ 体重：从入学的85kg直接降到75kg……不懂为什么
++ 体重：从入学的85kg直接降到70kg……不懂为什么
 
 + 喜欢的颜色：曾经是蓝色，现在似乎没有偏好
 
 + 视力：左眼725度，右眼625度（毕竟小学二年级开始戴眼镜）
 
-+ 婚否：单身狗一只，目前不指望脱单
++ 婚否：单身狗一只（目前不指望脱单）
 
-+ 政治面貌：群众（向各位低头）
++ 政治面貌：群众（向各位团员党员低头）
 
 <!---
 I'm a comment.
@@ -69,13 +67,15 @@ background-size: 100% 100%
 
 不信你看这背景图就知道了……
 
+（高考后从书房扒拉出来的各种东西）
+
 ---
 
 ## 特长
 
 其实真没有……
 
-但是因为喜欢装逼，给人留下的印象是记忆力好、考试不复习、会唱歌
+但是因为喜欢装逼（雾），给人留下的印象是记忆力好、考试不复习、唱各种歌
 
 具体还是可以看结尾的微信链接，嗯
 
@@ -100,9 +100,6 @@ py大法好，退C保平安（笑）
 
 ---
 
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Periodic_table_large.png/1280px-Periodic_table_large.png)
-background-size: 110% 110%
-
 ## 化学
 
 ** Benzene Molecular Orbitals **
@@ -112,6 +109,9 @@ background-size: 110% 110%
 被普化虐中……
 
 ---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Periodic_table_large.png/1280px-Periodic_table_large.png)
+background-size: 110% 110%
 
 class: center, middle
 

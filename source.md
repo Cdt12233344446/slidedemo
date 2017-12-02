@@ -33,8 +33,8 @@ class: center, middle
 ---
 
 background-image: url(https://i.loli.net/2017/11/26/5a1ad97fc7c68.jpg)
-background-size: 34% 80%
-background-position: 80% 50%
+background-size: 33% 80%
+background-position: 85% 50%
 
 ## 基本信息
 
@@ -42,7 +42,7 @@ background-position: 80% 50%
 
 + 性别：男（直男，谢谢）
 
-+ 生日：<font color="white">00-05-31</font>（话说我理论上是00后欸）
++ 生日：<font color="white">00-05-31</font>←这是秘密啦！（话说我理论上是00后欸）
 
 + 身高：大概175cm吧
 
@@ -50,7 +50,7 @@ background-position: 80% 50%
 
 + 喜欢的颜色：曾经是蓝色，现在似乎没有偏好
 
-+ 视力：<font color="white">左眼725度，右眼625度（毕竟小学二年级开始戴眼镜）</font>
++ 视力：左眼725度，右眼625度（毕竟小学二年级开始戴眼镜）
 
 + 婚否：单身狗一只（并且目前不指望脱单）
 

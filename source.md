@@ -32,11 +32,13 @@ class: center, middle
 
 ---
 
+background-image: url(https://i.loli.net/2017/11/26/5a1ad97fc7c68.jpg)
+background-size: 100% 100%
+background-position: right
+
 ## 基本信息
 
 ### 4. 真·个人信息
-
-.right[![Right-aligned image](https://i.loli.net/2017/11/26/5a1ad97fc7c68.jpg)]
 
 + 性别：男（直男，谢谢）
 

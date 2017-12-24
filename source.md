@@ -24,16 +24,16 @@ class: center, middle
 
 ### <font color="orangered">2. 优点</font>
 
-幽默、乐于助人、对生活有好奇心
+幽默（笑点有点怪）、乐于助人、对生活有好奇心
 
 ### <font color="darkolivegreen">3. 缺点</font>
 
-懒散、不太合群、偶尔戏多
+懒散、不太合群、偶尔戏多（话说，这个也算萌点？）
 
 ---
 
 background-image: url(https://i.loli.net/2017/11/26/5a1ad97fc7c68.jpg)
-background-size: 33% 80%
+background-size: 32% 80%
 background-position: 85% 50%
 
 ## 基本信息
@@ -42,7 +42,7 @@ background-position: 85% 50%
 
 + 性别：男（直男，谢谢）
 
-+ 生日：<font color="white">00-05-31</font>←这是秘密啦！（话说我理论上是00后欸）
++ 生日：<font color="white">00-05-31</font>←这是秘密啦！（我理论上是00后欸）
 
 + 身高：大概175cm
 
@@ -126,4 +126,5 @@ http://mp.weixin.qq.com/s?__biz=MzI1NTI5Nzc3NQ==&mid=2247484373&idx=1&sn=246bbff
 
 ???
 唔这一段还是太羞耻了，把它放在备注里面吧：
+
 http://mp.weixin.qq.com/s?__biz=MzAwNDA1OTc1NA==&mid=2650005333&idx=1&sn=80faffe44ce915912a682d12c27c770f

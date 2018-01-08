@@ -103,6 +103,11 @@ py大法好，退C保平安（笑）
 
 ---
 
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Periodic_table_large.png/1280px-Periodic_table_large.png)
+background-size: 100% 100%
+
+class: center, middle
+
 ## 化学
 
 ** Benzene Molecular Orbitals **
@@ -113,8 +118,8 @@ py大法好，退C保平安（笑）
 
 ---
 
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Periodic_table_large.png/1280px-Periodic_table_large.png)
-background-size: 110% 110%
+background-image: url(https://i.loli.net/2018/01/08/5a531a3578ef4.jpg)
+background-size: 80% 80%
 
 class: center, middle
 

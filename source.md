@@ -74,6 +74,7 @@ background-size: 100% 100%
 （高考后从书房扒拉出来的各种东西）
 
 ---
+
 ## 特长
 
 其实真没有……
@@ -89,6 +90,10 @@ background-size: 100% 100%
 
 ---
 
+background-image: url(https://i.loli.net/2018/01/08/5a532ff6f354e.jpg)
+background-size: 25% 25%
+background-position: 85% 85%
+
 ## 学习编程
 
 ```python
@@ -103,11 +108,6 @@ py大法好，退C保平安（笑）
 
 ---
 
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Periodic_table_large.png/1280px-Periodic_table_large.png)
-background-size: 100% 100%
-
-class: center, middle
-
 ## 化学
 
 ** Benzene Molecular Orbitals **
@@ -119,7 +119,7 @@ class: center, middle
 ---
 
 background-image: url(https://i.loli.net/2018/01/08/5a531a3578ef4.jpg)
-background-size: 80% 80%
+background-size: 72% 100%
 
 class: center, middle
 

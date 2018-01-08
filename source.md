@@ -91,7 +91,7 @@ background-size: 100% 100%
 ---
 
 background-image: url(https://i.loli.net/2018/01/08/5a532ff6f354e.jpg)
-background-size: 25% 25%
+background-size: 50% 50%
 background-position: 85% 85%
 
 ## 学习编程
@@ -104,7 +104,9 @@ for value in range(1,11)
 print(squares)
 ```
 
-py大法好，退C保平安（笑）
+Python大法好，退C保平安（笑）
+
+（虽然不知为何还是放了一张C的图）
 
 ---
 

@@ -129,9 +129,9 @@ class: center, middle
 
 ### 进一步了解可戳：
 
-http://mp.weixin.qq.com/s?__biz=MzI1NTI5Nzc3NQ==&mid=2247484373&idx=1&sn=246bbffa0d15c7a94b47d7b799a7dca8
+https://mp.weixin.qq.com/s/JoOlSsc5DMHx3mPo7__5DA
 
 ???
 唔这一段还是太羞耻了，把它放在备注里面吧：
 
-http://mp.weixin.qq.com/s?__biz=MzAwNDA1OTc1NA==&mid=2650005333&idx=1&sn=80faffe44ce915912a682d12c27c770f
+https://mp.weixin.qq.com/s/P6RV3gg6ms7dyxTpjbwslA
